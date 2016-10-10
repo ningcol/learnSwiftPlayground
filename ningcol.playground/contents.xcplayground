@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='序'/>
+        <page name='01-变量和常量'/>
+        <page name='02-运算符'/>
+        <page name='02-条件语句'/>
+        <page name='03-可选项'/>
+        <page name='初始化View'/>
+        <page name='05-循环'/>
+        <page name='06-字符串'/>
+        <page name='07-元组'/>
+        <page name='08-数组'/>
+        <page name='09-字典'/>
+        <page name='10-对象和类'/>
+    </pages>
+</playground>
