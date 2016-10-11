@@ -6,6 +6,10 @@ import Foundation
 for i in 0..<10{
     print(i)
 }
+// 使用 "_" 忽略不关心的值
+for _ in 0..<5{
+    print("ningcol")
+}
 
 print("----步长循环-----")
 // 递增(步数为2)
